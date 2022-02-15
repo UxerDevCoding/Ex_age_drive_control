@@ -1,6 +1,7 @@
-# ex_mayoria_edad
+# ex_Age Controller
 
-Empty project.
+Crea un programa que pida la edad y si es mayor de 18 indica
+que puede conducir.
 
 ## Building and running on localhost
 
